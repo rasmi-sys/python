@@ -1,1 +1,0 @@
-print(r'Telusko \n rocks')
